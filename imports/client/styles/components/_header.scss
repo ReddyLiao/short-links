@@ -1,0 +1,16 @@
+.header {
+  background-color: #482472;
+  color: white;
+}
+
+.header_content {
+  display: flex;
+  justify-content: space-between;
+  max-width: 50rem;
+  margin: 0 auto;
+  padding: 1.4rem;
+}
+
+.header_title {
+  margin: 0;
+}
